@@ -1,4 +1,4 @@
-name: abap2xlsx-mirror
+name: abap2xlsx-mirror_old
 
 on:
   workflow_dispatch:
